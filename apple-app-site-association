@@ -1,11 +1,15 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "PS2QJS9X99.com.hellochat.hellochatqa2",
-				"paths": [ "/hellochat/*"]
-			}
-		]
-	}
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "PS2QJS9X99.com.hellochat.HelloChat", "PS2QJS9X99.com.hellochat.hellochatqa2" ],
+             "components": [
+               {
+                  "/": "/hellochat/*",
+                  "comment": "Matches any URL with a path that starts with /hellochat/."
+               }
+             ]
+           }
+       ]
+   }
 }
