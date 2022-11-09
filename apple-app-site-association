@@ -5,11 +5,6 @@
 			{
 				"appID": "PS2QJS9X99.com.hellochat.hellochatqa2",
 				"paths": ["/wechat/*"]
-			},
-			{
-				"appID": "PS2QJS9X99.com.hellochat.HelloChat",
-				"paths": ["/hellochat/mp/*", "/hellochat/wechat/*"]
 			}
-		]
 	}
 }
