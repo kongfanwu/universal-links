@@ -4,7 +4,11 @@
 		"details": [
 			{
 				"appID": "PS2QJS9X99.com.hellochat.hellochatqa2",
-				"paths": ["/hellochat/merchant/*"]
+				"paths": ["/hellochat/merchant/*", "/hellochat/wechat/*"]
+			},
+			{
+				"appID": "PS2QJS9X99.com.hellochat.HelloChat",
+				"paths": ["/hellochat/merchant/*", "/hellochat/wechat/*"]
 			}
 		]
 	}
