@@ -3,20 +3,23 @@
         "apps": [],
         "details": [
             {
-                "appID": "PS2QJS9X99.com.hellochat.hellochatqa2",
                 "paths": [
-                    "/hellochat/wechat/*",
-                    "/hellochat/merchant/*",
-                    "/hellochat/other/*"
-                ]
+                    "/businessCircleProject/other/*"
+                ],
+                "appID": "9K65686N32.com.yiwo.businessCircleProject"
             },
             {
-                "appID": "PS2QJS9X99.com.hellochat.HelloChat",
                 "paths": [
-                    "/hellochat/wechat/*",
-                    "/hellochat/merchant/*",
-                    "/hellochat/other/*"
-                ]
+                    "/youlaiyouyueapp/other/*"
+                ],
+                "appID": "9K65686N32.com.yiwo.youlaiyouyueapp"
+            },
+            {
+                "paths": [
+                    "/fuzhoudianuser/wechat/*",
+		            "/fuzhoudianuser/other/*"
+                ],
+                "appID": "9K65686N32.com.yiwo.fuzhoudianuser"
             }
         ]
     }
